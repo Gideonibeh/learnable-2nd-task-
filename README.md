@@ -6,7 +6,7 @@
 it also enables multiple individual to work on the same project regardless  
 of time and space, and also track changes made to files individually.
 
-2. ## ***Difference between git and gitHub***
+2. ### ***Difference between git and gitHub***
 
 > git on itself its the version control system whereas gitHub is the platform for hosting git repositories and working with other people  in different places.
 
